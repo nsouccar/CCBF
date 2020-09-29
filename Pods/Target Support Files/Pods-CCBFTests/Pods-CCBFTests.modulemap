@@ -1,0 +1,6 @@
+framework module Pods_CCBFTests {
+  umbrella header "Pods-CCBFTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

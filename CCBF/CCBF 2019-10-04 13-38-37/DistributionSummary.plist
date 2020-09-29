@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CCBF.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>05F6DF82943E7BAF98EAB9318CB3660B42B8E8DE</string>
+				<key>dateExpires</key>
+				<string>10/2/20</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>05F6DF82943E7BAF98EAB9318CB3660B42B8E8DE</string>
+						<key>dateExpires</key>
+						<string>10/2/20</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>SwiftSoup.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>MBTFW55XSJ</string>
+						<key>name</key>
+						<string>Noa Souccar</string>
+					</dict>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>MBTFW55XSJ.com.nosouccar.CCBF</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>MBTFW55XSJ</string>
+				<key>get-task-allow</key>
+				<false/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>MBTFW55XSJ.com.nosouccar.CCBF</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>CCBF.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>55ca3f58-10fb-4126-aede-6cd5d50c30c5</string>
+				<key>name</key>
+				<string>iOS Team Ad Hoc Provisioning Profile: com.nosouccar.CCBF</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>MBTFW55XSJ</string>
+				<key>name</key>
+				<string>Noa Souccar</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
